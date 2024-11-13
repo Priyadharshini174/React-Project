@@ -1,0 +1,44 @@
+/* YourGiftsPage.css */
+
+.your-gifts-container {
+  padding: 20px;
+  background-color: #f9f9f9; /* Light background for the entire container */
+}
+
+.gifts-title {
+  margin-bottom: 20px;
+  color: #333; /* Darker color for the title */
+}
+
+.empty-message {
+  margin-top: 20px;
+  color: #777; /* Grey color for the empty message */
+}
+
+.gift-card {
+  background-color: #ffffff; /* White background for the gift card */
+  border: 1px solid #ddd; /* Light grey border around gift card */
+  border-radius: 8px; /* Rounded corners */
+  padding: 16px;
+  text-align: center; /* Center-align content in the card */
+  transition: box-shadow 0.3s; /* Smooth shadow transition */
+}
+
+.gift-card:hover {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Shadow effect on hover */
+}
+
+.gift-image {
+  width: 100%; /* Full width of the card */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 4px; /* Slightly round the image corners */
+  margin-bottom: 10px; /* Space below the image */
+}
+
+.gift-buttons {
+  margin-top: 10px; /* Space above the button */
+}
+
+button {
+  text-transform: none; /* Prevent uppercase transformation for the button text */
+}
