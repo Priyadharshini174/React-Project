@@ -1,0 +1,63 @@
+[
+    { "id": 1,
+     "name": "Customized Key Chains",
+      "price": "₹ 425",
+       "imageUrl": "https://www.zestpics.com/cdn/shop/products/heartkeychainDubulSide.jpg?v=1685107601&width=1080" 
+    },
+    { "id": 2, 
+    "name": "Customized Pendant", 
+    "price": "₹ 395",
+     "imageUrl": "https://www.yuvaflowers.com/cdn/shop/files/hearts-in-love-pendent-manual-yuvaflowers-hearts-in-love-pendent-default-title-42166942662936.jpg?v=1711901268" 
+    },
+    { "id": 3, 
+    "name": "Customized Puzzle",
+     "price": "₹ 645",
+      "imageUrl": "https://i.pinimg.com/736x/e3/d8/1e/e3d81e1bbdcc005eb4537c281264903f.jpg" 
+    },
+    { "id": 4, 
+    "name": "Customized watch", 
+    "price": "₹ 845", 
+    "imageUrl": "https://m.media-amazon.com/images/I/71LB-WOdH0L._AC_UY1000_.jpg" 
+    },
+    { "id": 5, 
+    "name": "Customized Coffee Mug", 
+    "price": "₹ 250", 
+    "imageUrl": "https://imgcdn.floweraura.com/personalised-bday-mug-9936170sd-C.jpg.jpg" 
+    },
+    { "id": 6,
+     "name": "Customized Name Bracelet",
+      "price": "₹ 499",
+       "imageUrl": "https://i.etsystatic.com/9299425/r/il/57147f/2648951100/il_570xN.2648951100_ozgj.jpg"
+     },
+    { "id": 7,
+     "name": "Customized Name Necklace",
+      "price": "₹ 599",
+       "imageUrl": "https://m.media-amazon.com/images/I/41SQ-lkcogL._AC_UY1100_.jpg" 
+    },
+    { "id": 8, 
+    "name": "Customized Photo Frame",
+     "price": "₹ 700", 
+     "imageUrl": "https://richous.co.in/wp-content/uploads/2023/03/1-8.webp" 
+    },
+    { "id": 9, 
+    "name": "Customized Key Holder",
+     "price": "₹ 700", 
+     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmmAGsA0zTY-92DB9Ese3uZgmzYb8QYmIOg&s" 
+    },
+    { "id": 10, 
+    "name": "light with speaker",
+     "price": "₹ 700", 
+     "imageUrl": "https://m.media-amazon.com/images/I/81p+dB2+2wL._AC_UF894,1000_QL80_.jpg" 
+    },
+    { "id": 11, 
+    "name": "Customized LED mirror",
+     "price": "₹ 700", 
+     "imageUrl": "https://ledmirror.in/wp-content/uploads/2018/12/glamo-mirrors-greek-key-motif-led-rectangular-bathroom-mirror-31009147453606_1024x1024.jpg_v1633776964.jpg" 
+    },
+    { "id": 12, 
+    "name": "Customized lock",
+     "price": "₹ 700", 
+     "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2024/5/418920998/WR/IW/PZ/5438818/4-500x500.jpg" 
+    }
+  ]
+  
