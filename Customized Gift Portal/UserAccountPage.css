@@ -1,0 +1,121 @@
+/* Style for the account page container */
+.account-page {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: rgba(249, 249, 249, 0.9); /* Slightly transparent background */
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  background-size: cover; /* Ensure the image covers the entire container */
+  background-position: center; /* Center the image */
+}
+
+/* Apply a background to the whole page */
+body {
+  
+  background-size: cover; /* Ensure the image covers the entire body */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent image from repeating */
+}
+
+/* Styling for heading */
+.account-page h4 {
+  color: #3f51b5;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+/* Form styling */
+.account-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-field {
+  margin-bottom: 20px;
+}
+
+.form-field input, .form-field label {
+  font-size: 16px;
+  color: #333;
+}
+
+/* Input fields focus effect */
+.form-field .MuiInput-underline:after {
+  border-bottom-color: #3f51b5;
+}
+
+/* Profile picture container */
+.account-form .MuiAvatar-root {
+  border: 3px solid #3f51b5;
+  transition: transform 0.3s ease;
+}
+
+.account-form .MuiAvatar-root:hover {
+  transform: scale(1.1);
+}
+
+input[type="file"] {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #666;
+}
+
+/* Buttons styling */
+.account-buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 25px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:disabled {
+  background-color: #d3d3d3;
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+button:focus {
+  outline: none;
+}
+
+button.primary {
+  background-color: #3f51b5;
+  color: white;
+  border: none;
+}
+
+button.primary:hover {
+  background-color: #2c387e;
+}
+
+button.secondary {
+  background-color: #f50057;
+  color: white;
+  border: none;
+}
+
+button.secondary:hover {
+  background-color: #ab003c;
+}
+
+/* Alert styling */
+.form-alert {
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .account-page {
+    padding: 15px;
+    margin: 20px;
+  }
+}
