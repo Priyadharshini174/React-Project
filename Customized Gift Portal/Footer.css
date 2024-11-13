@@ -1,0 +1,15 @@
+.footer {
+    background-color: #a89ea9; /* Primary color */
+    color: white; /* White text */
+    padding: 20px 0;
+    margin-top: auto; /* Push footer to the bottom */
+  }
+  
+  .footer-title {
+    font-weight: bold;
+  }
+  
+  .footer-copyright {
+    margin-top: 20px;
+  }
+  
