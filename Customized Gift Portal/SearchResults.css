@@ -1,0 +1,38 @@
+/* SearchResults.css */
+
+/* Container for search results */
+.search-results-container {
+    padding: 16px; /* Padding for the container */
+  }
+  
+  /* Title of the search results */
+  .search-results-title {
+    font-size: 24px; /* Font size for the title */
+    margin-bottom: 16px; /* Margin below the title */
+  }
+  
+  /* Box for each product */
+  .product-box {
+    border: 1px solid #ccc; /* Border for the product box */
+    border-radius: 4px; /* Rounded corners */
+    padding: 16px; /* Padding inside the box */
+    display: flex; /* Flexbox for layout */
+    flex-direction: column; /* Vertical layout */
+    align-items: center; /* Center items horizontally */
+  }
+  
+  /* Image styles */
+  .product-image {
+    width: 150px; /* Fixed width */
+    height: 150px; /* Fixed height */
+    object-fit: cover; /* Crop images to fit while maintaining aspect ratio */
+    border-radius: 4px; /* Rounded corners for images */
+  }
+  
+  /* Product name styles */
+  .product-name {
+    margin-top: 8px; /* Margin above the product name */
+    text-align: center; /* Center align text */
+    font-size: 16px; /* Font size for the product name */
+  }
+  
