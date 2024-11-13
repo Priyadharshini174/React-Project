@@ -1,0 +1,67 @@
+body {
+  margin: 0; /* Remove default margin */
+  height: 100vh; /* Full height of the viewport */
+  /* background-image: url('https://media.licdn.com/dms/image/v2/D5612AQHs27uQz4_6QQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708601671411?e=2147483647&v=beta&t=gu_NIwj_zJgxspDiFvdvRACoZxm0QGihJvglXB1hH2E'); */
+  background-size: cover; /* Cover the entire page */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+}
+
+.login-container {
+
+  width: 100%;
+  background-color: rgb(232, 202, 162);
+  max-width: 400px;
+  margin:40px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color:transparent; /* Slightly transparent background for readability */
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+.a{
+  margin-top: 50px;
+  margin-left: 800px;
+}
+.login-container h4 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+.login-container .MuiTextField-root {
+  margin-bottom: 30px;
+  
+}
+
+.login-container .MuiButton-root {
+  background-color: #3f51b5;
+  color: #faf8f8;
+  font-size: 16px;
+}
+
+.login-container .MuiButton-root:hover {
+  background-color: #303f9f;
+}
+
+.login-container .MuiTypography-body2 {
+  font-size: 14px;
+  margin-top: 12px;
+  background-color: rgb(251, 247, 247);
+ 
+}
+
+.login-container .MuiButton-text {
+  color: #3f51b5;
+}
+
+.signup-btn {
+  background-color: white;
+}
+.img{
+  background-image: url('https://cdn.pixabay.com/photo/2018/12/07/16/27/christmas-3861993_640.jpg');
+  background-size:cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+}
