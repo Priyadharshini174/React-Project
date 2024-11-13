@@ -1,0 +1,55 @@
+/* CustomizePage.css */
+
+.customize-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .customize-page h4 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .customize-image {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+  
+  input[type="file"] {
+    margin: 10px 0;
+  }
+  
+  .MuiInputBase-input, .MuiSelect-select {
+    margin: 10px 0;
+  }
+  
+  .MuiTextField-root, .MuiSelect-root {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .MuiButton-root {
+    background-color: #1976d2;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-transform: none;
+  }
+  
+  .MuiButton-root:hover {
+    background-color: #115293;
+  }
+  
